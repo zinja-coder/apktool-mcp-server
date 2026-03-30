@@ -304,3 +304,8 @@ Thank you Mseep.net for auditing and providing Assessment Badge.
 ---
 
 Built with ❤️ for the reverse engineering and AI communities.
+
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/zinja-coder-apktool-mcp-server).
+

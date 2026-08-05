@@ -2,6 +2,8 @@
 
 # apktool-mcp-server (Part of Zin's Reverse Engineering MCP Suite)
 
+[![MCP Toplist](https://mcptoplist.com/badge/glama%2Fzinja-coder%2Fapktool-mcp-server.svg)](https://mcptoplist.com/server/glama%2Fzinja-coder%2Fapktool-mcp-server)
+
 ⚡ Fully automated MCP server built on top of apktool to analyze Android APKs using LLMs like Claude — uncover vulnerabilities, parse manifests, and reverse engineer effortlessly.
 
 ![GitHub contributors apktool-mcp-server](https://img.shields.io/github/contributors/zinja-coder/apktool-mcp-server)
